@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">الحسابات السنوية</string>
+    <string name="title_dashboard">الرئيسية</string>
+    <string name="title_transactions">العمليات</string>
+    <string name="title_inventory">المخزون والمنتجات</string>
+    <string name="total_income">إجمالي المداخيل</string>
+    <string name="total_expense">إجمالي المصاريف</string>
+    <string name="net_profit">صافي الأرباح</string>
+    <string name="annual_target">الهدف السنوي</string>
+    <string name="target_achieved">محقق من الهدف</string>
+    <string name="currency">ر.س</string>
+</resources>
